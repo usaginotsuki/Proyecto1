@@ -6,7 +6,7 @@
 
 #### PaaS, IaaS, SaaS
 
-![Comparativa entre los 3][https://github.com/usaginotsuki/Proyecto1/blob/main/files/1aaS.png?raw=true]
+![Comparativa entre los 3](./files/1aas.png)
 
 Los 3 son distintas capas de prestaciones de servicios en la nube, en orden de responsabilidades/permisos por parte de los usuarios se encuentran:
 - IasS
