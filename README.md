@@ -68,7 +68,7 @@ Se trata del apartado físico de la conexión
 
 # NETFLIX CON AWS
 
-![Comparativa entre los 3](./files/1aaS.png)
+![Comparativa entre los 3](./files/N.png)
 
 
 > A Netflix lo que mejor se le daba era proporcionar vídeos a sus suscriptores, por ello  decidió concentrarse en mejorar el servicio de entregas en lugar de mejorar la creación de centros de datos, añadido a esto el bajo coste de la nube, pues esta solamente agrega servidores cuando se necesitan y se devuelven cuando no son usados, esto se traduce a: Netflix solo tiene que pagar por lo que necesita y cuando sea necesario.
