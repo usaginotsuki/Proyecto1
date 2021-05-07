@@ -92,6 +92,7 @@ El proceso de codificación crea muchos archivos, ya que el objetivo final de Ne
 
 
 ### ¿QUE OCURRE ANTES DE DAR PLAY? 
+![Comparativa entre los 3](./files/B.png)
 > Todo lo que no tenga que ver con la transmisión de vídeo se lleva a cabo en AWS, esto incluye computación escalable, almacenamiento escalable, lógica empresarial, bases de datos descentralizadas escalables, procesamiento y análisis de big data, recomendaciones, transcodificación, etc.
 [Leer mas](https://www.xataka.com/streaming/la-compleja-infraestructura-detras-de-netflix-que-pasa-cuando-le-das-al-play#:~:text=En%20realidad%2C%20Netflix%20usa%20dos,tengan%20problemas%20con%20el%20streaming.)
 
