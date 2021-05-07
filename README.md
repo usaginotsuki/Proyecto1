@@ -67,6 +67,9 @@ Se trata del apartado físico de la conexión
 
 
 # NETFLIX CON AWS
+
+![Comparativa entre los 3](./files/N.png)
+
 > A Netflix lo que mejor se le daba era proporcionar vídeos a sus suscriptores, por ello  decidió concentrarse en mejorar el servicio de entregas en lugar de mejorar la creación de centros de datos, añadido a esto el bajo coste de la nube, pues esta solamente agrega servidores cuando se necesitan y se devuelven cuando no son usados, esto se traduce a: Netflix solo tiene que pagar por lo que necesita y cuando sea necesario.
 Además AWS ofrece bases de datos, almacenamiento y centros de datos de mucha confianza. Y para garantizar el alto rendimiento de Netflix, este utiliza AWS en tres regiones: dos en Estados Unidos y una en Irlanda. Dentro de cada región, Netflix opera en tres zonas de disponibilidad diferentes.
 ¿Pero qué sucede si se cae toda la región de Irlanda?, Netflix te redirige a una de las regiones de Estados Unidos y tu dispositivo pasará a transmitir información a esa región en vez de la de Irlanda. Ni siquiera te darías cuenta de que se ha caído una parte del sistema. Brindando además una cobertura mundial.
