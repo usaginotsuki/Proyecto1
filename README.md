@@ -37,4 +37,29 @@ PaaS les brinda a los desarrolladores una variedad de formas de desarrollar, per
 
 En el modelo SaaS, el navegador web del cliente actúa como el punto de acceso al software y las aplicaciones que se ejecutan en servidores de terceros (es decir, infraestructura). El software es implementado, administrado, actualizado y soportado por un tercero también.
 
+# Capas del modelo OSI
+
+Se trata de un modelo basado en 7 capas con distintas funciones y en conjunto definen un estándar de comunicación en donde hardware y diferentes protocolos puedan interactuar.
+
+![Comparativa entre los 3](./files/OSI.jpeg)
+
+
+## Niveles OSI orientados a red 
+Se trata del apartado físico de la conexión
+1. Física: Define el medio físico de transmisión (Cables)
+
+2. Enlace de datos: Medios para establecer la comunicación de los elementos físicos
+
+3. Red: Identificación del enrutamiento entre redes conectadas
+
+4. Transporte: Transporte de los datos de origen a distino
+
+## Niveles OSI orientados a aplicación
+
+5. Sesión: Controla y mantiene el enlace entre las máquinas que están transmitiendo información
+
+6. Presentación: Representación de la información transmitida
+
+7. Aplicación: Permitir a los usuarios ejecutar acciones y comandos en sus propias aplicaciones
+
 -Reto realizado por : Jean Chachalo, Ivonne Aguilar, Angelica Perez
